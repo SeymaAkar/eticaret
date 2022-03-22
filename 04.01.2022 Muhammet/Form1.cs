@@ -15,7 +15,7 @@ namespace _04._01._2022_Muhammet
     public partial class Form1 : Form
     {
         SimpleTcpServer server;
-        string iptxt = "172.16.100.217";
+        string iptxt = "172.16.100.200";
         int port = 5454;
         public Form1()
         {
